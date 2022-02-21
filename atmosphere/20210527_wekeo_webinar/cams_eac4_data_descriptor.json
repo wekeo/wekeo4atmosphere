@@ -1,0 +1,42 @@
+{
+  "datasetId": "EO:ECMWF:DAT:CAMS_GLOBAL_REANALYSIS_EAC4",
+  "boundingBoxValues": [
+    {
+      "name": "area",
+      "bbox": [
+        -180,
+        -90,
+        180,
+        90
+      ]
+    }
+  ],
+  "dateRangeSelectValues": [
+    {
+      "name": "date",
+      "start": "2020-03-01T00:00:00.000Z",
+      "end": "2020-03-31T00:00:00.000Z"
+    }
+  ],
+  "multiStringSelectValues": [
+    {
+      "name": "variable",
+      "value": [
+        "total_column_ozone"
+      ]
+    },
+    {
+      "name": "time",
+      "value": [
+        "00:00",
+        "12:00"
+      ]
+    }
+  ],
+  "stringChoiceValues": [
+    {
+      "name": "format",
+      "value": "netcdf"
+    }
+  ]
+}

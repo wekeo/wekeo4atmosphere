@@ -1,0 +1,35 @@
+{
+  "datasetId": "EO:ESA:DAT:SENTINEL-5P:TROPOMI",
+  "boundingBoxValues": [
+    {
+      "name": "bbox",
+      "bbox": [
+        135.39739634141876,
+        -44.52932633885725,
+        162.5751370327434,
+        -13.045119366579158
+      ]
+    }
+  ],
+  "dateRangeSelectValues": [
+    {
+      "name": "position",
+      "start": "2019-12-29T00:00:00.000Z",
+      "end": "2019-12-29T04:00:00.000Z"
+    }
+  ],
+  "stringChoiceValues": [
+    {
+      "name": "productType",
+      "value": "L2__NO2___"
+    },
+    {
+      "name": "processingLevel",
+      "value": "LEVEL2"
+    },
+    {
+      "name": "timeliness",
+      "value": "Offline"
+    }
+  ]
+}

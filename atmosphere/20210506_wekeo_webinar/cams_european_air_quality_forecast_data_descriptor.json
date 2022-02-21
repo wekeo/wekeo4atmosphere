@@ -1,0 +1,77 @@
+{
+  "datasetId": "EO:ECMWF:DAT:CAMS_EUROPE_AIR_QUALITY_FORECASTS",
+  "boundingBoxValues": [
+    {
+      "name": "area",
+      "bbox": [
+        -24.32,
+        71.56,
+        45,
+        30
+      ]
+    }
+  ],
+  "dateRangeSelectValues": [
+    {
+      "name": "date",
+      "start": "2021-02-04T00:00:00.000Z",
+      "end": "2021-02-04T00:00:00.000Z"
+    }
+  ],
+  "multiStringSelectValues": [
+    {
+      "name": "model",
+      "value": [
+        "ensemble"
+      ]
+    },
+    {
+      "name": "variable",
+      "value": [
+        "nitrogen_dioxide"
+      ]
+    },
+    {
+      "name": "type",
+      "value": [
+        "forecast"
+      ]
+    },
+    {
+      "name": "level",
+      "value": [
+        "0"
+      ]
+    },
+    {
+      "name": "leadtime_hour",
+      "value": [
+        "0",
+        "6",
+        "12",
+        "18",
+        "24",
+        "30",
+        "36",
+        "42",
+        "48",
+        "54",
+        "60",
+        "66",
+        "72"
+      ]
+    },
+    {
+      "name": "time",
+      "value": [
+        "00:00"
+      ]
+    }
+  ],
+  "stringChoiceValues": [
+    {
+      "name": "format",
+      "value": "netcdf"
+    }
+  ]
+}
