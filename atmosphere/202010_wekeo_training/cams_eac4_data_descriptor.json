@@ -1,21 +1,10 @@
 {
   "datasetId": "EO:ECMWF:DAT:CAMS_GLOBAL_REANALYSIS_EAC4",
-  "boundingBoxValues": [
-    {
-      "name": "area",
-      "bbox": [
-        130,
-        -50,
-        170,
-        -10
-      ]
-    }
-  ],
   "dateRangeSelectValues": [
     {
       "name": "date",
-      "start": "2019-12-30T00:00:00.000Z",
-      "end": "2020-12-31T00:00:00.000Z"
+      "start": "2021-08-12T00:00:00.000Z",
+      "end": "2021-08-12T00:00:00.000Z"
     }
   ],
   "multiStringSelectValues": [
