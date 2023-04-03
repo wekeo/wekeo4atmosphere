@@ -1,0 +1,19 @@
+id: wekeo4atmosphere
+name: WEkEO for Atmosphere
+description: Notebooks to Copernicus atmosphere data products.
+home_url: https://github.com/wekeo/wekeo4atmosphere
+copyright: 2023 WEkEO PARTNERS (EUMETSAT/MIO/ECMWF/EEA)
+
+# when was this ABOUT file created or last updated?
+date: 03-04-2023
+
+# Package IPR documentation
+license_text_file: ./LICENCE.txt
+license_spdx: https://spdx.org/licenses/MIT.html
+
+# File(s) associated to this component
+* about_resource:
+    * ./*.ipynb
+    * ./img/*.png
+    * ./air_quality/*.ipynb
+    * ./fire/*.ipynb

@@ -1,0 +1,26 @@
+name: wekeo4atmosphere
+channels:
+  - conda-forge
+dependencies:
+  - pip:
+    - cartopy==0.21.0
+    - fiona==1.9.2
+    - geopandas==0.6.1
+    - georasters==0.5.15
+    - hda==1.15
+    - imageio==2.26.0
+    - matplotlib==3.4.2
+    - netcdf==1.5.3
+    - numpy==1.22.0
+    - pandas==0.25.3
+    - pyproj==3.5.0
+    - pyresample==1.26.1
+    - rasterio==1.3.6
+    - rasterstats==0.18.0
+    - satpy==0.17.1
+    - scikit-image==0.16.2
+    - scikit-learn==0.21.3
+    - scipy==1.3.2
+    - toolz==0.12.0
+    - xarray==2023.1.0
+    - zarr==2.14.2

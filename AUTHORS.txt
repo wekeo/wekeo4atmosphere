@@ -2,7 +2,9 @@
 EUMETSAT and Mercator Ocean International under the frameworks of the Copernicus Programme
 
 # List of development authors
-Julia Wagemann (MEEO SRL)
+Dr. Julia Wagemann (MEEO SRL)
+
+# List of contributing authors
 Sabrina Szeto (MEEO SRL)
 
 # Support
