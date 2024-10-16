@@ -1,7 +1,7 @@
 {
   "dataset_id": "EO:ECMWF:DAT:CAMS_GLOBAL_REANALYSIS_EAC4",
-  "dtstart": "2021-08-12T00:00:00.000Z",
-  "dtend": "2021-08-12T00:00:00.000Z",
+  "startdate": "2021-08-12T00:00:00.000Z",
+  "enddate": "2021-08-12T00:00:00.000Z",
   "variable": [
     "organic_matter_aerosol_optical_depth_550nm"
   ],
@@ -15,5 +15,8 @@
     "18:00",
     "21:00"
   ],
-  "format": "netcdf"
+  "data_format": "netcdf_zip",
+  "nochace": "True",
+  "itemsPerPage": 200,
+  "startIndex": 0
 }

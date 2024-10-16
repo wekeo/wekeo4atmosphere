@@ -1,14 +1,17 @@
-{
-  "dataset_id": "EO:EUM:DAT:SENTINEL-3:OL_1_EFR___",
-  "dtstart": "2021-08-12T03:00:00.000Z",
-  "dtend": "2021-08-12T03:15:00.000Z",
+l{
+  "dataset_id": "EO:ESA:DAT:SENTINEL-3",
   "bbox": [
         62.57464843750014,
         31.323293562266347,
         117.59112304687507,
         57.68403323201619
   ],
-  "sat": "Sentinel-3B",
-  "type": "OL_1_EFR___",
-  "timeliness": "NT"
+  "productType": "OL_1_EFR___",
+  "platform": "S3B",
+  "instrument": "OLCI",
+  "startdate": "2021-08-12T03:00:00.000Z",
+  "enddate": "2021-08-12T03:15:00.000Z",
+  "status": "OFFLINE",
+  "itemsPerPage": 200,
+  "startIndex": 0
 }

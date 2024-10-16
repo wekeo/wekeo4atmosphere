@@ -1,7 +1,7 @@
 {
   "dataset_id": "EO:ECMWF:DAT:CAMS_EUROPE_AIR_QUALITY_FORECASTS",
-  "dtstart": "2021-02-04T00:00:00.000Z",
-  "dtend": "2021-02-04T00:00:00.000Z",
+  "startdate": "2021-02-04T00:00:00.000Z",
+  "enddate": "2021-02-04T00:00:00.000Z",
   "variable": [
     "nitrogen_dioxide"
   ],
@@ -38,5 +38,8 @@
     45,
     30
   ],
-  "format": "netcdf"
+  "data_format": "netcdf_zip",
+  "nocache": "True",
+  "itemsPerPage": 200,
+  "startIndex": 0
 }

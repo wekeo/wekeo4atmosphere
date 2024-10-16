@@ -6,8 +6,12 @@
     45,
     71.56
   ],
-  "startDate": "2021-02-05T10:00:00.000Z",
-  "completionDate": "2021-02-05T12:00:00.000Z",
+  "startdate": "2021-02-05T10:00:00.000Z",
+  "enddate": "2021-02-05T12:00:00.000Z",
   "productType": "L2__NO2___",
-  "instrument": "TROPOMI"
+  "processingLevel": "L2",
+  "instrument": "TROPOMI",
+  "status": "OFFLINE",
+  "itemsPerPage": 200,
+  "startIndex": 0
 }

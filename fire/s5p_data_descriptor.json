@@ -6,9 +6,12 @@
         117.59112304687507,
         57.68403323201619
   ],
-  "startDate": "2021-08-12T03:00:00.000Z",
-  "completionDate": "2021-08-12T06:00:00.000Z",
+  "startdate": "2021-08-12T03:00:00.000Z",
+  "enddate": "2021-08-12T06:00:00.000Z",
   "productType": "L2__CO____",
   "processingLevel": "L2",
-  "instrument": "TROPOMI"
+  "instrument": "TROPOMI",
+  "status": "OFFLINE',
+  "itemsPerPage": 200,
+  "startIndex": 0
 }
